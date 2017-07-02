@@ -1,0 +1,31 @@
+.orange{
+  background-color: orange;
+  padding: 50px 20px;
+}
+.purple{
+  background-color: purple;
+  height: 75px;
+}
+.white{
+  background-color: white;
+  height: 30px;
+}
+.pink{
+  background-color: pink;
+  height: 100px;
+}
+.yellow{
+  background-color: yellow;
+  height: 100px;
+}
+.green{
+  background-color: green;
+  height: 75px;
+}
+.red{
+  background-color: red;
+  height: 50px;
+}
+div{
+  border: 1px solid black;
+}
